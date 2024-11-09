@@ -1,5 +1,5 @@
-    SteamConsoleMode
+# SteamConsoleMode
 This is a beta project!
 
-Bugs:
+## Bugs:
 1. not working audio (volmue up, down)
